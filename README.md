@@ -34,6 +34,7 @@ install.packages("sqldf")
 Install Node
 
 sudo npm install faker
+
 sudo npm install json2csv
 
 Run:
