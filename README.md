@@ -10,10 +10,10 @@ install.packages("phonenumber")
 install.packages("sqldf")
 
 ## Ensure the following files are in the same folder:
-1.	Data Cleanse 6.R
+1.	Data cleansing v(x.x).R
 2.	File_test_run.csv 
 
-** Run the R script: Data Cleanse 6.R
+** Run the R script: Data cleansing v(x.x).R
 
 
 ## The output includes
