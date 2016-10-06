@@ -5,8 +5,11 @@
 
 ## Run install packages in command line:
 install.packages("data.table", repos="http://R-Forge.R-project.org")
+
 install.packages("RJSONIO")
+
 install.packages("phonenumber")
+
 install.packages("sqldf")
 
 ## Ensure the following files are in the same folder:
