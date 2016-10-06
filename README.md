@@ -18,7 +18,7 @@ install.packages("sqldf")
 
 ## The output includes
 1.	Corrections to the data against the test cases: clean_name, clean_email, clean_phone
-2.	Creating a data quality map which is a JSON array of what corrections were made: data_quality_map
+2.	Creating a data quality map which is a JSON array of corrections made against test cases: data_quality_map
 3.	Exception column to flag data that cannot be programmatically corrected and should be fixed at source : name_exception, email_exception, phone_exception
 
 ## File outputs
