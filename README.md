@@ -30,7 +30,7 @@ install.packages("sqldf")
 
 
 
-## Generate test data using node 
+## Generate 1,000 tuples of test data using node and faker API 
 Install Node
 
 sudo npm install faker
